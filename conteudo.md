@@ -105,7 +105,7 @@ Mas tenta ir cedo! :D
 
 ### Mais detalhes
 
-- Dependendo de onde você está no Brasil, o segundo turno pode incluir voto para 1, 2 ou 3 cargos. **Todo mundo vai votar para presidente.** Alguns também para governador e prefeito.
+- Dependendo de onde você está no Brasil, o segundo turno pode incluir voto para 1, 2 ou 3 cargos. **Todo mundo vai votar para presidente.** Alguns também para governador e até prefeito (casos excepcionais!).
 - **E voto Branco ou nulo?** Nenhum dos dois vai para candidato nenhum (nem para quem está ganhando). Voto em Branco é feito apertando o botão correspondente na urna, o Nulo quando você digita um número inválido (que não corresponde a nenhum candidato que está concorrendo). **Mesmo que mais da metade dos votos seja Nulo ou Branco, a eleição continua valendo.** Vence quem tem mais votos válidos.
 - **A urna é acessível**: Tem braille + áudio (te oferecem um fone) e uma intérprete de libras na tela.
 - Pessoa com deficiência ou mobilidade reduzida pode entrar na cabine com alguém de sua confiança.
