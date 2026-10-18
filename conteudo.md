@@ -47,7 +47,7 @@ Mas tenta ir cedo! :D
 ## 02 · Onde eu voto
 
 - Confira sua zona e seção no [**site do TSE**](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/), ou no [**app e-Título**](https://play.google.com/store/search?q=e-titulo&c=apps&hl=pt_BR).
-- Elas **podem ter mudado**: não confie em título impresso antigo.
+- Elas **podem ter mudado**, inclusive entre o 1º e o 2º turno (em poucos casos). Não confia só no título impresso antigo, **checa o dado atualizado!**
 - **Só existe voto presencial.** Não tem voto pela internet, aplicativo ou correio. Se ouvir falar disso, é golpe: denuncie. (app de denúncia [android](https://play.google.com/store/apps/details?id=br.jus.trees.pardalmobile), [iphone](https://apps.apple.com/br/app/pardal/id1138128680))
 - Transporte público é **GRATUITO** no dia da eleição. (No Rio de Janeiro das 6h às 20h)
 
@@ -145,7 +145,7 @@ Todas atualizadas e dos órgãos oficiais. Para tirar dúvidas ou verificar as i
 - Adesivo, broche, camiseta e bandeira, e o que é boca de urna: [ver no TSE](https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/manual-do-eleitor-confira-as-regras-para-o-eleitorado-na-propaganda-eleitoral)
 - Gratuidade de transportes estaduais no RJ: [ver no site do governo](https://www.rj.gov.br/transporte/node/1077)
 - Gratuidade de tranportes municipais no Rio de Janeiro: [ver no site da prefeitura](https://prefeitura.rio/noticias/eleicoes-2026-rio-tera-transporte-gratuito-e-interdicoes-no-transito/)
-
+- Dados gerais da distribuição de locais de votação, incluindo alterações para o segundo turno: [ver no site do TSE](https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-eleitorado/painel-capilaridade). Pra consultar o **seu** local de votação, vai pelo [autoatendimento](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/), esse aqui é pra acompanhar o quadro geral.
 
 <!-- BLOCO: rodapé -->
 Esse é um guia independente, sem vínculo com a Justiça Eleitoral, feito por mim: [Julia](https://www.instagram.com/juliavillela/). Eu já escolhi meu voto, mas esse conteúdo é só de divulgação das regras mesmo. Prometo que chequei tudo. Qualquer dúvida ou problema me manda mensagem :)
