@@ -49,14 +49,13 @@ Mas tenta ir cedo! :D
 - Confira sua zona e seção no [**site do TSE**](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/), ou no [**app e-Título**](https://play.google.com/store/search?q=e-titulo&c=apps&hl=pt_BR).
 - Elas **podem ter mudado**, inclusive entre o 1º e o 2º turno (em poucos casos). Não confia só no título impresso antigo, **checa o dado atualizado!**
 - **Só existe voto presencial.** Não tem voto pela internet, aplicativo ou correio. Se ouvir falar disso, é golpe: denuncie. (app de denúncia [android](https://play.google.com/store/apps/details?id=br.jus.trees.pardalmobile), [iphone](https://apps.apple.com/br/app/pardal/id1138128680))
-- Transporte público é **GRATUITO** no dia da eleição. (No Rio de Janeiro das 6h às 20h)
+- **Transporte público DE GRAÇA no dia da eleição é obrigatório no país inteiro**. Os horários e detalhes são decididos por cada estado e município. Cheque o seu! (RJ nos detalhes)
 
 ### Mais detalhes
 
-- **Transporte grátis:** ônibus, BRT, VLT, vans, trem, metrô, barcas e ônibus intermunicipais urbanos. Não precisa mostrar documento. Não vale para ônibus rodoviários ou executivos.
+- **Transporte grátis no RJ, das 6h às 20h:** ônibus, BRT, VLT, vans, trem, metrô, barcas e ônibus intermunicipais urbanos. Não precisa mostrar documento. Não vale para ônibus rodoviários ou executivos.
 - **Precisa de carona ou companhia?** Peça ajuda a pessoas com quem você se sente seguro. Candidatos e partidos são proibidos de oferecer transporte a eleitores.
 - **Exceção:** quem pediu **voto em trânsito** até 20/08 vota no local que escolheu no pedido.
-- **Transporte gratuito em dia de eleição é obrigatório no país inteiro**. Os horários e detalhes são decididos por cada estado e município. Cheque o seu!
 
 <!-- BLOCO: 03 · O que preciso levar -->
 ## 03 · O que preciso levar
